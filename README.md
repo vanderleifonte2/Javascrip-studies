@@ -1,7 +1,7 @@
 # Javascrip-studies
 
-Para executar o exercicios cifra de cesar:
-  1. Abra o diretorio pelo CMD
-  2. digite node + cesar-cipher.js
-  3. digite node + cesar-decipher.js
+1. Para executar o exercicios cifra de cesar:
+      * Abra o diretorio pelo CMD
+      * digite node + cesar-cipher.js
+      * digite node + cesar-decipher.js
   
